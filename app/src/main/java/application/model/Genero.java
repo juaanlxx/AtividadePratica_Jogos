@@ -40,7 +40,7 @@ public class Genero {
         return jogos;
     }
 
-    public void setLivros(Set<Jogo> jogos) {
+    public void setJogos(Set<Jogo> jogos) {
         this.jogos = jogos;
     }
 }
